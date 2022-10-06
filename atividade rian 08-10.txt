@@ -1,7 +1,7 @@
 //Autor: Rian Carlos Dutra
 
 import java.util.Scanner;
-public class akane {
+public class Main {
     public static void main(String[] args) {
         int questao;
         Scanner ler = new Scanner(System.in);
